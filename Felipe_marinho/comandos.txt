@@ -3,3 +3,7 @@ git init
 git commit
 
 essa linha eu que criei Guilherme
+git config user.name ""
+git add 
+git push
+git pull
